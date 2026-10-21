@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Maple-Mono';
-    src: url(fonts/MapleMono-Regular.otf);
-}
-
-body{
-    background: url(images/celesestrellas.gif);
-    font-family: 'Maple-Mono';
-}
