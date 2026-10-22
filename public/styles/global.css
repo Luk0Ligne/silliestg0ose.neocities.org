@@ -3,6 +3,7 @@
     src: url(../fonts/MapleMono-Regular.otf);
 }
 body{
+    cursor: url(../images/Cinnamoroll-Set/cinnamoroll\ pointer.cur),auto;
     background: url(../images/celesestrellas.gif);
     font-family: 'Maple-Mono';
 }
