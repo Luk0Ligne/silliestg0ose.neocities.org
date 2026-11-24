@@ -1,0 +1,15 @@
+hr{
+    border: dashed;
+    color: rgb(0, 255, 153);
+}
+h2{
+    text-align: center;
+}
+.Article{
+    border: dashed;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-top: 8%;
+    padding: 20px;
+    width: 800px;
+}

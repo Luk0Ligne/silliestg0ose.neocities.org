@@ -17,11 +17,10 @@ body {
   box-sizing: border-box;
 }
 .container{
-  background-color: rgba(87, 129, 219, 0.849);
-  color: black;
   padding: 15px 20px 15px 20px;
   margin: 0%;
-  box-shadow: 0px 0px 30px rgb(184, 240, 255);
+  box-shadow: 0px 0px 30px rgb(64, 238, 151);
+  border: dashed;
   border-radius: 10px;
   display: flex;
   gap: 10px;
@@ -29,7 +28,7 @@ body {
   box-sizing: border-box;
 }
 .column{
-  border: 2px solid rgba(0, 255, 200, 0.589);
+  border: dashed;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -48,9 +47,9 @@ body {
 }
 .continue{
     margin-left: 250px;
-    font-family: 'Maple-Mono';
-    background-color: aquamarine;
+    background:url(../images/chaotech.png);
+    color: rgb(0, 255, 153);;
     border-radius: 5px;
-    border-color: rgb(237, 237, 129);
+    border: dashed;
     padding: 10px;
 }
