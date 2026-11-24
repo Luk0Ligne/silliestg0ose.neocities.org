@@ -1,0 +1,37 @@
+hr{
+    border: dashed;
+    color: rgb(0, 255, 153);
+}
+.About{
+    border: dashed;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-top: 8%;
+    padding: 20px;
+    width: 800px;
+}
+h1{
+    text-align: center;
+}
+.left{
+    width: 25%;
+    border: dashed;
+    border-radius: 10px;
+    padding: 2%;
+}
+.right  {
+    padding:2%;
+    width: 73%;
+    border: dashed;
+    border-radius: 10px;
+    overflow-y:scroll;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+    height: 375px;
+}
+.tinytext{
+    font-size: 10px;
+}
