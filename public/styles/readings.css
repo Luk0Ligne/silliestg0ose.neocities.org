@@ -13,6 +13,7 @@ h2{
     padding: 20px;
     width: 800px;
 }
-a:-webkit-any-link{
+a:link,
+a:visited{
     color: rgb(6, 212, 3);;
 }
