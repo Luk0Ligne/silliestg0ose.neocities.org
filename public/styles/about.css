@@ -31,7 +31,14 @@ h1{
     flex-direction: row;
     gap: 2%;
     height: 375px;
+    margin-bottom: 15px;
 }
 .tinytext{
     font-size: 10px;
+}
+.quiz{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 600px;
 }

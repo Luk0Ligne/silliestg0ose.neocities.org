@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", function (){
     sfx.volume = 0.2;
        function playSound(){
         sfx.volume = 0.2;
+        sfx.loop = true;
         sfx.play();
     };
     window.addEventListener("pageshow", (e) => {
