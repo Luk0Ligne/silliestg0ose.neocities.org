@@ -12,7 +12,7 @@ h1{
 .Article{
     border: dashed;
     border-radius: 10px;
-    margin-top: 5%;
+    margin: 2%;
     padding: 20px;
     width: 800px;
 }
