@@ -1,9 +1,7 @@
 body {
   font-size: 10px;
   display: flex;
-  margin: 0%;
   justify-content: center;
-  animation: fadein 1s;
 }
 .main{
   display: flex;

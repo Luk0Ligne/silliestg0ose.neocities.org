@@ -1,3 +1,7 @@
+body {
+  display: flex;
+  justify-content: center;
+}
 hr{
     border: dashed;
     color: rgb(0, 255, 153);
@@ -8,8 +12,7 @@ h1{
 .Article{
     border: dashed;
     border-radius: 10px;
-    margin-left: 20%;
-    margin-top: 8%;
+    margin-top: 5%;
     padding: 20px;
     width: 800px;
 }

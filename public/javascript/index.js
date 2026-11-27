@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function (){
         entries.forEach((entry) => {
             if(entry.isIntersecting){
                 entry.target.src = entry.target.dataset.src;
+                observer.unobserve(entry.target);
             }
         });     
     }
